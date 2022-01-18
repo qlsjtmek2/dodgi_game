@@ -1,3 +1,6 @@
+https://play.google.com/store/apps/details?id=com.shinkhan.DotGi&hl=ko&gl=US  
+
+
 기획.txt  
   
 조작을 왼쪽에 조이스틱같은거 만들고 그걸로 조작  
